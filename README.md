@@ -1,6 +1,6 @@
 # lrose-blaze
 
-<img align="left" width="175" height="175" src="./docs/images/LROSE_logo.small.png">
+<img align="left" width="175" height="175" src="./docs/images/LROSE_logo_small.png">
 <img align="right" width="175" height="175" src="./docs/images/Rosa_Blaze_Superior.jpg">
 
 ## **LROSE Blaze** - The Lidar Radar Open Software Environment "Blaze" Release
