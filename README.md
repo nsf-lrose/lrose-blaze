@@ -34,7 +34,7 @@ In the current release, the following tools are available:
   * **RadxBufr** - Convert Bufr format to CfRadial NetCDF format
 
 ## Display
-  * **HawkEye** - Real-time and archive display suitable for both scanning and vertically pointing radars. New research capabilities and new editing features will continue to be added in 2018
+  * **HawkEye** - Real-time and archive display suitable for both scanning and vertically pointing radars.
 
 ## Grid
   * **Radx2Grid** - Gridding and interpolation of ground-based radar data
