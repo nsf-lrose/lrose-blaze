@@ -5,6 +5,8 @@
 
 ## **LROSE Blaze** - The Lidar Radar Open Software Environment "Blaze" Release
 
+[![DOI](https://zenodo.org/badge/139178089.svg)](https://zenodo.org/badge/latestdoi/139178089)
+
 The first LROSE release is called **"Blaze"** (a climbing rose) and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
 
 Blaze can be used from a 'Virtual Toolbox' using Docker and a wrapper script, or compiled in C++ for native apps on Linux or Mac. Preliminary support is available for some tools on Windows.
